@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Batteries",
+  "universe": "GB · The Batteries (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Batteries:GB:6f620f⟧",
+  "carbon": "the-gb-power.carbon.tiff (TIFF)",
+  "silicon": "the-gb-power.silicon.png (PNG)",
+  "seal_sha256": "4d60f024846726e3d9e91b40b2ebd24ab63d2ee383a30ecbcc2248bbabd97343",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

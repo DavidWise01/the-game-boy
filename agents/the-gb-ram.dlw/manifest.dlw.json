@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Work RAM",
+  "universe": "GB · Work RAM (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦Work RAM:GB:d5bd59⟧",
+  "carbon": "the-gb-ram.carbon.tiff (TIFF)",
+  "silicon": "the-gb-ram.silicon.png (PNG)",
+  "seal_sha256": "22a8f1525316730f31c5c552278d56a13c58e212c5776450d70ad0386131b0e3",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

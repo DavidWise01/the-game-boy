@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Screen",
+  "universe": "GB · The Screen (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Screen:GB:d6a3a1⟧",
+  "carbon": "the-gb-screen.carbon.tiff (TIFF)",
+  "silicon": "the-gb-screen.silicon.png (PNG)",
+  "seal_sha256": "f26e36789925e197449295ed3c17d9f6b8060455073e671bb7823cdb24553af1",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

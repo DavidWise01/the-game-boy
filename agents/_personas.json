@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "the-gb-cpu",
+    "name": "The LR35902",
+    "epithet": "between 8080 and Z80 · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The LR35902:GB:69d846⟧"
+  },
+  {
+    "slug": "the-gb-screen",
+    "name": "The Screen",
+    "epithet": "four shades of grey-green · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Screen:GB:d6a3a1⟧"
+  },
+  {
+    "slug": "the-gb-sound",
+    "name": "The Sound",
+    "epithet": "the chiptune voice · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Sound:GB:53beb6⟧"
+  },
+  {
+    "slug": "the-gb-link",
+    "name": "The Link Cable",
+    "epithet": "two handhelds, joined · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Link Cable:GB:7fa07c⟧"
+  },
+  {
+    "slug": "the-gb-ram",
+    "name": "Work RAM",
+    "epithet": "the small scratch · natural",
+    "emergence": "natural",
+    "moniker": "⟦Work RAM:GB:d5bd59⟧"
+  },
+  {
+    "slug": "the-gb-power",
+    "name": "The Batteries",
+    "epithet": "the real superpower · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Batteries:GB:6f620f⟧"
+  },
+  {
+    "slug": "the-gb-cart",
+    "name": "The Cartridge",
+    "epithet": "the game, and the save · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Cartridge:GB:02b9aa⟧"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Cartridge",
+  "universe": "GB · The Cartridge (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The Cartridge:GB:02b9aa⟧",
+  "carbon": "the-gb-cart.carbon.tiff (TIFF)",
+  "silicon": "the-gb-cart.silicon.png (PNG)",
+  "seal_sha256": "8215bddb0617cc267208cfd88635b3c2e6f8f199a497b1592c56ef220cd10f54",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

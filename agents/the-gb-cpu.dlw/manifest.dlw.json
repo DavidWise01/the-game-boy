@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The LR35902",
+  "universe": "GB · The LR35902 (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The LR35902:GB:69d846⟧",
+  "carbon": "the-gb-cpu.carbon.tiff (TIFF)",
+  "silicon": "the-gb-cpu.silicon.png (PNG)",
+  "seal_sha256": "62b4e4e859f4ca4831481c615bcc15065c2c501d28e71e7c5fa97059ead43be2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

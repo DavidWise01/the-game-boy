@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Link Cable",
+  "universe": "GB · The Link Cable (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Link Cable:GB:7fa07c⟧",
+  "carbon": "the-gb-link.carbon.tiff (TIFF)",
+  "silicon": "the-gb-link.silicon.png (PNG)",
+  "seal_sha256": "dffec6e5ecd6762ef3f2a64b2325f896e27977a71450a90af3f9f1049630202f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

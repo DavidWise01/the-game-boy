@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Cartridge
+node GB · GB · ⟦The Cartridge:GB:02b9aa⟧
+
+WHO   — The Cartridge — the game, and the save · natural
+WHAT  — the game, and the save · natural
+WHERE — GB · NINTENDO GAME BOY (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — Cartridges holding the game ROM and, often, battery-backed save RAM — the durable, swappable medium of the handheld.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  the game, and the save · natural
+
+spoken token : thel-theith-lund   ·   hex : 02b9aa
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0
